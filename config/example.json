@@ -1,0 +1,17 @@
+{
+  "port": 5000,
+  "db": "**********",
+  "siteUrl": "localhost:3000",
+  "filePath": "",
+  "smtp": {
+    "host": "*******",
+    "port": 465,
+    "secure": true,
+    "auth": {
+      "user": "***********",
+      "pass": "***********"
+    }
+  },
+  "accessTokenSecret": "************",
+  "refreshTokenSecret": "************"
+}
